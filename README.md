@@ -1,3 +1,3 @@
 # starting
 my first repository
-priti
+priti goala
